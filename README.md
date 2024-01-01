@@ -1,5 +1,5 @@
 # Excel Projects
-The aim of these projects is to demonstrate Excel skills by using sample/publicly available data
+The aim of these projects is to demonstrate Excel skills by using publicly available data
 
 * #### Top Video Game Sales Analysis
 Used this data [here](https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download), to perform analysis using pivot tables, formulas (SUMIF(S), VLOOKUP,INDEX, IFERROR, etc), ranking and charts.
